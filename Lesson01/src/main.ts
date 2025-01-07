@@ -1,8 +1,9 @@
 // .....................simple types......................
 
-let myNum: number;
-let myStr: string;
-let myBool: boolean;
+let myNum: number; //only numbers
+let myStr: string; //only strings
+let myBool: boolean; //only boolean
+let anyVal: any; //this will allow every type
 
 // .............................................
 
