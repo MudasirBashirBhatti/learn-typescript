@@ -1,1 +1,2 @@
-I'm learning type script so all my files related to typescript learning goes here
+1. I'm learning type script so all my files related to typescript learning goes here
+2. don't open both main.js and main.ts because that way you see error. be easy nothing is   wrong.
